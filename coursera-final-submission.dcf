@@ -1,0 +1,12 @@
+name: coursera-final-submission
+title: coursera-final-submission
+username:
+account: cfernandez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1922154
+bundleId: 2863173
+url: https://cfernandez.shinyapps.io/coursera-final-submission/
+when: 1583732536.89885
+asMultiple: FALSE
+asStatic: FALSE
